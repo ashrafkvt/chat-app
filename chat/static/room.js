@@ -65,7 +65,7 @@ function connect() {
 
         switch (data.type) {
             case "chat_message":
-                chatLog.value += data.message + "\n";
+                chatLog.value += data.user + ": " + data.message + "\n";
                 console.log("sent msg " + data.message);
                 break;
             default:
