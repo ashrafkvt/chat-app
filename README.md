@@ -1,6 +1,6 @@
 # chat-app
 
-A chat application where users can text each other privately and broadcast messages to a group of users
+An instant messaging application that enables users to have private conversations and broadcast messages to groups of users.
 
 ## Tech Stack
 
